@@ -1,3 +1,11 @@
-h1 {
-  font-family:Papyrus;
+body{
+  background:"http://static.tumblr.com/4ab4e4cce3469a6836f9e51bb41bdc75/xbs3pyd/whwn6epnk/tumblr_static_73gzms2nks0sw4g4c4880ko0k.jpg";
+    background-attachment: fixed;
+  background-size: cover;
+    margin:60px auto;
+  width:70%
+}
+
+    h1 {
+  font-family:;
 }
