@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/htmlcss1-img_canyon.jpeg");
+  background-image: url("http://static.tumblr.com/4ab4e4cce3469a6836f9e51bb41bdc75/xbs3pyd/whwn6epnk/tumblr_static_73gzms2nks0sw4g4c4880ko0k.jpg");
   background-position: center center;
   background-size: cover;
   height: 700px;
@@ -82,7 +82,7 @@ p {
 }
 
 .main {
-  background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/shards.png");
+  background: url("https://s-media-cache-ak0.pinimg.com/736x/2c/ed/e5/2cede5989974e6ec49aafdd927dca41d.jpg");
   margin: 0;
   padding: 40px;
 }
