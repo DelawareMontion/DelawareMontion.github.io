@@ -1,7 +1,9 @@
+<style>
 body {
   background-color: #FFF;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 .header {
@@ -10,9 +12,8 @@ body {
   background-size: cover;
   height: 700px;
   width: 100%;
+  
 }
-
-/* Add the ID selector to this CSS rule */
 
 #header-text {
   margin: 0 auto;
@@ -29,6 +30,7 @@ h1 {
   font-weight: 400;
   line-height: 60px;
   margin: 0;
+  text-align: center;
 }
 
 h2 {
@@ -37,6 +39,7 @@ h2 {
   text-align: center;
   font-size: 28px;
   font-weight: 100;
+  
 }
 
 h3 {
@@ -54,6 +57,7 @@ h4 {
   font-family: 'Quicksand', sans-serif;
   font-size: 16px;
   font-weight: 300;
+  text-align: center;
 }
 
 p {
@@ -66,8 +70,6 @@ p {
   text-align: center;
   width: 60%;
 }
-
-/* Add the class selector to this CSS rule */
 
 .partner {
   padding: 20px;
@@ -109,3 +111,4 @@ p {
 .partner, .prop {
   text-align: center;
 }
+</style>
